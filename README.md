@@ -1,4 +1,4 @@
 # Calculation-App
-![Screenshot_20230627_181453](https://github.com/phano1/Calculation-App/assets/102198424/99e6ea05-7c67-43cc-832c-017f76d3f1a5)
-![Screenshot_20230627_181624](https://github.com/phano1/Calculation-App/assets/102198424/49862dab-6c6b-4f54-ae7f-6889d176c8e7)
-![Screenshot 2023-06-27 181722](https://github.com/phano1/Calculation-App/assets/102198424/4c92c186-1818-458f-b3eb-d22054afd008)
+![Screenshot1](https://github.com/phano1/Calculation-App/assets/102198424/66a705fd-dfe3-4c37-8d5f-773be6b37b5e)
+![Screenshot2](https://github.com/phano1/Calculation-App/assets/102198424/d34ece50-9b2e-4746-a609-ed578e8d09ed)
+![Screenshot 3](https://github.com/phano1/Calculation-App/assets/102198424/2b9afaa1-fbbf-49c3-917d-c7c00ab9e7d0)
