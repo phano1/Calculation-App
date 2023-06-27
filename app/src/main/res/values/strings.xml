@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Homework2</string>
+    <string name="homework_title">HW2 by OP</string>
+    <string name="Button34">MC</string>
+    <string name="button38">7</string>
+    <string name="button42">4</string>
+    <string name="button46">1</string>
+    <string name="button35">M+</string>
+    <string name="button39">8</string>
+    <string name="button43">5</string>
+    <string name="button47">2</string>
+    <string name="button48">3</string>
+    <string name="button49">=</string>
+    <string name="button36">/</string>
+    <string name="button37">X</string>
+    <string name="button50">0</string>
+    <string name="button40">9</string>
+    <string name="button41">-</string>
+    <string name="button51">.</string>
+    <string name="button45">+</string>
+    <string name="button44">6</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="HelloWorld"> HelloWorld</string>
+    <string name="helloworld">HelloWorld</string>
+
+</resources>
